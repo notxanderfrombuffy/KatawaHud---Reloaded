@@ -20,11 +20,11 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"75"
-		"ypos"			"35"
+		"xpos"			"73"
+		"ypos"			"33"
 		"zpos"			"4"
-		"wide"			"51"
-		"tall"			"51"
+		"wide"			"55"
+		"tall"			"55"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
@@ -70,10 +70,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"76"
-		"xpos_minmode"	"61"
+		"xpos"			"75"
 		"ypos"			"52"	[$WIN32]
-		"ypos"			"55"	[$X360]
 		"zpos"			"5"
 		"wide"			"50"
 		"tall"			"18"
@@ -84,6 +82,7 @@
 		"font"			"PlaytimeWithHotToddies24"
 		"fgcolor"		"TanDark"
 	}
+
 	"PlayerStatusMaxHealthValue"
 	{
 		"ControlName"	"CExLabel"
