@@ -1,4 +1,4 @@
-"Resource/UI/HudItemEffectMeter_ParticleCannon.res"
+"Resource/UI/HudItemEffectMeter_SodaPopper.res"
 {
 	HudItemEffectMeter
 	{
@@ -24,20 +24,20 @@
 		"tall"			"50"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../hud/misc_ammo_area_horiz2_blue"
+		"image"			"../hud/misc_ammo_area_horiz3_blue"
 		"scaleImage"	"1"	
-		"teambg_2"		"../hud/misc_ammo_area_horiz2_red"
-		"teambg_3"		"../hud/misc_ammo_area_horiz2_blue"
+		"teambg_2"		"../hud/misc_ammo_area_horiz3_red"
+		"teambg_3"		"../hud/misc_ammo_area_horiz3_blue"				
 	}
 	
 	"ItemEffectMeterLabel"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"-30"
+		"xpos"					"28"
 		"ypos"					"47"
 		"zpos"					"2"
-		"wide"					"150"
+		"wide"					"41"
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"

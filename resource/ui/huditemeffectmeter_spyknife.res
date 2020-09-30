@@ -1,4 +1,4 @@
-"Resource/UI/HudItemEffectMeter_ParticleCannon.res"
+"Resource/UI/HudItemEffectMeter_SpyKnife.res"
 {
 	HudItemEffectMeter
 	{
@@ -7,7 +7,7 @@
 		"enabled"		"1"
 		"xpos"			"c60"	[$WIN32]
 		"ypos"			"c125"	[$WIN32]
-		"wide"			"150"
+		"wide"			"200"
 		"tall"			"100"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
@@ -27,17 +27,17 @@
 		"image"			"../hud/misc_ammo_area_horiz2_blue"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_horiz2_red"
-		"teambg_3"		"../hud/misc_ammo_area_horiz2_blue"
+		"teambg_3"		"../hud/misc_ammo_area_horiz2_blue"					
 	}
 	
 	"ItemEffectMeterLabel"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"-30"
+		"xpos"					"29"
 		"ypos"					"47"
 		"zpos"					"2"
-		"wide"					"150"
+		"wide"					"41"
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
@@ -60,7 +60,6 @@
 		"ypos"					"51"
 		"zpos"					"2"
 		"wide"					"80"
-		"wide_minmode"			"50"
 		"tall"					"5"				
 		"autoResize"			"0"
 		"pinCorner"				"0"

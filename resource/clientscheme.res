@@ -3033,6 +3033,37 @@ Scheme
 			}
 		}
 			
+		"PlaytimeWithHotToddies8"
+		{
+			"1"
+			{
+				"name"		"Playtime With Hot Toddies"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		
+		"PlaytimeWithHotToddies8DS"
+		{
+			"1"
+			{
+				"name"			"Playtime With Hot Toddies"
+				"tall"			"8"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"PlaytimeWithHotToddies10"
+		{
+			"1"
+			{
+				"name"		"Playtime With Hot Toddies"
+				"tall"		"10"
+				"antialias" "1"
+			}
+		}
+		
 		"PlaytimeWithHotToddies12"
 		{
 			"1"

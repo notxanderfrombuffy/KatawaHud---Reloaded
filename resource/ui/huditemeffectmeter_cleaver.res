@@ -1,4 +1,4 @@
-"Resource/UI/HudItemEffectMeter_ParticleCannon.res"
+"Resource/UI/HudItemEffectMeter_Cleaver.res"
 {
 	HudItemEffectMeter
 	{
@@ -27,17 +27,17 @@
 		"image"			"../hud/misc_ammo_area_horiz2_blue"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_horiz2_red"
-		"teambg_3"		"../hud/misc_ammo_area_horiz2_blue"
+		"teambg_3"		"../hud/misc_ammo_area_horiz2_blue"				
 	}
 	
 	"ItemEffectMeterLabel"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"-30"
-		"ypos"					"47"
+		"xpos"					"25"
+		"ypos"					"54"
 		"zpos"					"2"
-		"wide"					"150"
+		"wide"					"41"
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
@@ -57,10 +57,9 @@
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
 		"xpos"					"62"
-		"ypos"					"51"
+		"ypos"					"58"
 		"zpos"					"2"
 		"wide"					"80"
-		"wide_minmode"			"50"
 		"tall"					"5"				
 		"autoResize"			"0"
 		"pinCorner"				"0"
